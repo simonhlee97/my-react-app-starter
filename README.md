@@ -1,7 +1,14 @@
-# Getting Started with Create React App
+# A Create React App-based Starter
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Some slight modifications I added to original files:
+
+- 3 example components, all exported (not as default exports) into an index.js file.
+- shared and hooks directories.
+- use of CSS modules in the example components
+
+I learned how to structure React projects from this guy: [portEXE](https://youtu.be/cOGaK7OGiPo)
 ## Available Scripts
 
 In the project directory, you can run:
